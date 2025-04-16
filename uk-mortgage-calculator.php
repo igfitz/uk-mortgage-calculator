@@ -1,13 +1,15 @@
 <?php
+
 /*
-Plugin Name: UK Mortgage & Stamp Duty Calculator
-Description: A responsive UK mortgage and stamp duty calculator. Use shortcode [uk_mortgage_calculator] to display. Created by <a href='https://creatif.digital' target='_blank'>Creatif Digital</a>.
-Version: 1.3
-Author: Creatif Digital
-Author URI: https://creatif.digital
-GitHub Plugin URI: https://github.com/igfitz/uk-mortgage-calculator
-GitHub Branch: main
-*/
+ * Plugin Name: UK Mortgage Calculator
+ * Plugin URI: https://github.com/igfitz/uk-mortgage-calculator
+ * Description: A modern UK-specific mortgage and stamp duty calculator for WordPress.
+ * Version: 1.4
+ * Author: Creatif Digital
+ * Author URI: https://creatif.digital
+ * GitHub Plugin URI: https://github.com/igfitz/uk-mortgage-calculator
+ * Primary Branch: main
+ */
 
 defined('ABSPATH') || exit;
 
